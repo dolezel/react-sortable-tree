@@ -15,9 +15,9 @@ coverage
 
 # Build directories (Will be preserved by npm)
 .cache
-dist
+#dist
 build
-style.css
+#style.css
 style.css.map
 
 # Error files
