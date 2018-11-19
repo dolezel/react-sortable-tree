@@ -62,7 +62,7 @@
     "prop-types": "^15.6.1",
     "react-dnd": "^6.0.0",
     "react-dnd-html5-backend": "^6.0.0",
-    "react-dnd-scrollzone": "github:eaglus/react-dnd-scrollzone.git#4.0.0-spotware-patch-3",
+    "react-dnd-scrollzone": "github:dolezel/react-dnd-scrollzone.git#e0e42402f92c7e11717c467cb47aa76e3f3bc48a",
     "react-lifecycles-compat": "^3.0.4",
     "react-virtualized": "^9.19.1"
   },
